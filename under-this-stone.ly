@@ -9,8 +9,8 @@
 
 \score {
   \relative a' {
-    \key a \minor
-    \time 2/4
+    \key a \major
+    \time 3/4
     \tempo 4 = 70
     
     % Under this stone lies
@@ -36,10 +36,12 @@
     g8 b4 a2 % f8?
 
     % Pray for the soul of gen-tle John
-    c4 b8 a4 gis4 a4 e'4 (f8) f4 
+    e'4. d8 c4 b2 c4 a4. (c4) b8 (a8) g4.
+    %c4. b8 a4 gis4 a4 e4. (gis8) f8 (e8) d4.
     % if you please you may,
-
+    g8 a4
     % or let it alone, tis' all one.
+    r1 r1 a4
   }
 
   \addlyrics {
