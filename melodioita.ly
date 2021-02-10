@@ -5,7 +5,8 @@
 
 \score {
   \relative c' {
-    b8 cis8 es8 e8 fis4 e8 fis8 e8 es8 cis8 es8 fis4 (fis4)
+  \key b \major
+    b8 cis8 dis8 e8 fis4 e8 fis8 e8 dis8 cis8 dis8 fis4 (fis4)
   }
 
   \addlyrics{
