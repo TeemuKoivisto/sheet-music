@@ -41,7 +41,7 @@
     % if you please you may,
     g8 a4
     % or let it alone, tis' all one.
-    r1 r1 a4
+    r1 r1 b2
   }
 
   \addlyrics {
