@@ -36,11 +36,13 @@
     g8 b4 a2 % f8?
 
     % Pray for the soul of gen-tle John
-    e'4. d8 c4 b2 c4 a4. (c4) b8 (a8) g4.
+    e'4. d8 c4 b2 c4 a4. (c4) b8 (a8) gis4.
     %c4. b8 a4 gis4 a4 e4. (gis8) f8 (e8) d4.
     % if you please you may,
-    g8 a4
+    %e'4 d4 f4. e8 d8 b4 %ekan versen mukaan
+    gis8 a4 d,4. f8 g8
     % or let it alone, tis' all one.
+    d8 g8 (g8 g8.) f8 e4 f4. d8 a'2.
     r1 r1 b2
   }
 
